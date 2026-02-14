@@ -1,3 +1,0 @@
-.ideia/
-_pycache_/
-
