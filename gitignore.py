@@ -1,0 +1,3 @@
+.ideia/
+_pycache_/
+
